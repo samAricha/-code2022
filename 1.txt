@@ -1,0 +1,14 @@
+2 3
+Ayubu 2
+Js 3
+html 2
+Linda 1
+css 3
+Stuck 10 15 10 2
+html 1
+js 2
+Pubs 7 10 7 1
+css 5
+sph 15 10 15 3
+js 4
+html 3
